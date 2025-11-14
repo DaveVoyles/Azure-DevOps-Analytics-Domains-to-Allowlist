@@ -1,0 +1,21 @@
+Azure DevOps & Analytics Domains to Allowlist
+===============================================
+
+*.dev.azure.com
+*.visualstudio.com
+analytics.dev.azure.com
+*.analytics.visualstudio.com
+*.almsservices.visualstudio.com
+*.microsoftonline.com
+*.live.com
+*.graph.microsoft.com
+*.login.microsoftonline.com
+*.management.azure.com
+*.azurewebsites.net
+*.core.windows.net
+vssps.visualstudio.com
+spellcheck.visualstudio.com
+cdn.vsassets.io
+
+References:
+- Microsoft official allowlist: https://docs.microsoft.com/en-us/azure/devops/organizations/security/allow-list-ip-url

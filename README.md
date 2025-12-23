@@ -130,6 +130,8 @@ Never allowlist domains from:
 - Tracking or analytics services (unless specifically needed)
 - Potentially malicious sites
 
+**Special Warning - URL Shorteners**: URL shortening services (bit.ly, goo.gl, etc.) can hide malicious destinations. These are commented out in the Misc-Allow-List by default. Only enable them if you absolutely need them and trust the sources you're accessing.
+
 ## 📚 Resources
 
 - [AdGuard Home Documentation](https://github.com/AdguardTeam/AdGuardHome/wiki)
@@ -142,4 +144,4 @@ These allowlists are provided as-is for personal use. Use at your own discretion
 
 ---
 
-**Last Updated**: December 2024
+*This allowlist configuration is provided as-is. Review and test all entries before use in your environment.*

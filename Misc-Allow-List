@@ -112,7 +112,8 @@ i.redd.it
 v.redd.it
 
 ! Additional Common Services
-! URL shorteners (use with caution)
-bit.ly
-goo.gl
-ow.ly
+! ⚠️ URL shorteners can hide malicious destinations - use with extreme caution
+! Only enable if absolutely necessary and you trust the sources
+! bit.ly
+! goo.gl
+! ow.ly

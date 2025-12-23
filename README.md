@@ -142,4 +142,4 @@ These allowlists are provided as-is for personal use. Use at your own discretion
 
 ---
 
-**Last Updated**: December 2025
+**Last Updated**: December 2024

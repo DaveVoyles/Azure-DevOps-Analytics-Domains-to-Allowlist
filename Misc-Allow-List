@@ -1,3 +1,8 @@
+General Purpose Allowlist for AdGuard
+=====================================
+
+# Social Media & Communication
+# Twitter/X domains
 x.com
 www.x.com
 api.x.com
@@ -6,4 +11,111 @@ t.co
 pbs.twimg.com
 video.twimg.com
 ton.twitter.com
-https://www.chewy.com/
+twitter.com
+mobile.twitter.com
+
+# E-commerce & Shopping
+# Pet supplies
+chewy.com
+www.chewy.com
+*.chewy.com
+# Amazon services
+amazon.com
+www.amazon.com
+images-na.ssl-images-amazon.com
+completion.amazon.com
+fls-na.amazon.com
+# eBay
+ebay.com
+www.ebay.com
+*.ebay.com
+# Walmart
+walmart.com
+www.walmart.com
+*.walmart.com
+# Target
+target.com
+www.target.com
+*.target.com
+
+# Payment & Authentication
+# PayPal
+paypal.com
+www.paypal.com
+*.paypal.com
+# Stripe
+stripe.com
+*.stripe.com
+js.stripe.com
+# Authentication providers
+accounts.google.com
+accounts.youtube.com
+login.live.com
+login.microsoftonline.com
+
+# Content Delivery Networks (CDNs)
+# These are essential for many websites to function
+cdn.jsdelivr.net
+cdnjs.cloudflare.com
+unpkg.com
+stackpath.bootstrapcdn.com
+code.jquery.com
+fonts.googleapis.com
+fonts.gstatic.com
+ajax.googleapis.com
+*.cloudfront.net
+
+# Streaming & Media
+# YouTube
+youtube.com
+www.youtube.com
+*.youtube.com
+youtubei.googleapis.com
+# Spotify
+spotify.com
+*.spotify.com
+*.scdn.co
+# Netflix
+netflix.com
+*.netflix.com
+*.nflxvideo.net
+
+# Analytics & Error Tracking (Legitimate Use)
+# Some sites require these to function properly
+www.google-analytics.com
+ssl.google-analytics.com
+sentry.io
+*.sentry.io
+
+# Image & Media Hosting
+imgur.com
+i.imgur.com
+*.imgur.com
+gravatar.com
+*.gravatar.com
+
+# Development & Documentation
+github.com
+*.github.com
+githubusercontent.com
+github.io
+stackoverflow.com
+*.stackoverflow.com
+stackexchange.com
+*.stackexchange.com
+
+# News & Media
+reddit.com
+www.reddit.com
+*.reddit.com
+i.redd.it
+v.redd.it
+
+# Additional Common Services
+# Email tracking (for legitimate newsletters)
+click.email
+*.email
+# URL shorteners (use with caution)
+bit.ly
+goo.gl
+ow.ly
